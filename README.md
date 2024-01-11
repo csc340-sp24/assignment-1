@@ -24,7 +24,7 @@ git checkout -b [ BRANCH NAME ]
 
 where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe
 
-## Step Six: Open the file AboutMe.txt and in a text editor.
+## Step Six: From your file directory, open the file AboutMe.txt in a text editor.
 Add your name, underline it using dashes. Write a short paragraph about yourself. 
 
 Do not use a word processing program.
