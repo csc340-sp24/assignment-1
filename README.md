@@ -10,7 +10,7 @@ Do not go into any previously created repositories!
 MacOS users can just start a regular terminal.
 
 ## Step Three: Clone this repository to your local machine.
-https://github.com/csc340-sp24/assignment-1.git
+git clone https://github.com/csc340-sp24/assignment-1.git
 
 ## Step Four: Change directory into the the repository you just cloned. 
 cd assignment-1
