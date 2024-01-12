@@ -31,7 +31,9 @@ In my free time, my brain head empty nothingness. I also like baking cookies.
 
 Jayden Cathcart
 ------------------------------------------------------------------------
-Hello, I'm Jayden and I'm also a third-year Computer Science student. In my free time, I enjoy making beats, playing basketball from time to time, and cooking when I have ingredients. I have four siblings, 3 brothers (two older, one younger) and one older sister. 
+Hello, I'm Jayden and I'm also a third-year Computer Science student. In my free time, 
+I enjoy making beats, playing basketball from time to time, and cooking when I have ingredients. 
+I have four siblings, 3 brothers (two older, one younger) and one older sister. 
 
 Ivan R.C.
 -----------------------------------------------------------------------
@@ -40,4 +42,12 @@ nugguets from McDonalds and Chick Flick A. I also play over the board chess this
 
 Kanika Sun
 -----------------------------------------------------------------------
-Hello, I am Kanika. Outside of school I really enjoy physical activities like sports and weightlifting. I recently started doing calisthenics and that is something I've been really enjoying right now. Other than that I also like to read. I recently finished a book called 56 Days and all I have to say is don't trust anyone you meet!
+Hello, I am Kanika. Outside of school I really enjoy physical activities like sports and weightlifting. 
+I recently started doing calisthenics and that is something I've been really enjoying right now. Other than that I also like to read. 
+I recently finished a book called 56 Days and all I have to say is don't trust anyone you meet!
+
+Sebastian Duarte
+------------------------------------------------------------------------
+My name is Sebastian and I'm a sophomore. I'm 20 years old and have two younger brothers. I have two
+pet cats and a milksnake. 
+
