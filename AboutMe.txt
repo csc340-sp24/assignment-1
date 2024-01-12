@@ -1,13 +1,23 @@
 Sunny Ntini
 -----------------------------------------------------------------------
-I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, and a 
+I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, and a  
 BS in Computer Science from Indiana University of Pennsylvania. 
 I like (some) superheroes and puzzles. I solve my Wordle at 12:01 am every day.
 Just like most basic people, I like hiking too. I also like history tidbits so I listen to 
 Behind The Bastards, The Dollop, Well There's Your Problem, Ridiculous History and the like. I am 
 currently reading "Quackery: A Brief History Of The Worst Ways To Cure Everything".
 This is the way.
+
 Will Hutcheon
 ------------------------------------------------------------------------
 I am a student of computer science at UNCG. In my free time, I like to golf and watch/play
 hockey. I am half Canadian. I dont think I have seen any of the Star Wars movies.
+
+Jamin Bucur
+-----------------------------------------------------------------------
+I am a Christian. I believe in putting God above everything.
+I am 19 years old and a Senior at UNCG majoring in Computer Science. 
+I enjoy sports like basketball and tennis as well as occasional weight lifting.
+I have four brothers and am the middle child. I pray the world would come to know
+what Jesus truely did on the cross. And that there's salvation through repentence
+and trust in Jesus.
