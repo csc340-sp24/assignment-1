@@ -102,3 +102,7 @@ Michael DeHaan
 ------------------------------------------------------------------------
 I am Michael DeHaan, a Computer Science student at UNCG. My current project is implementing react in my personal portfolio website. I am learning frontend 
 development so that I have a way to better publish future projects and applications.
+
+Jacob Greene
+------------------------------------------------------------------------
+Hi my name is Jacob Greene. I enjoy working out, working on my truck, and coding. I've been learning about reverse engineering after learning more about assembly last year. Good luck with everyones classes.
