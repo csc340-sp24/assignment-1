@@ -80,3 +80,18 @@ Hello, my name is Arturo. I am currently a senior at UNCG studying
 Computer Science with a minor in Information Technology. I am currently watching
 the last episodes of Star Wars, The Clone Wars. This is my first year using Github.
 I like to go to the gym when I have free time.
+
+Kevin Ruiz 
+------------------------------------------------------------------------
+Hello, Im Kevin I am a senior at UNCG I like to code in my free time I have recently started to learn ReactJS and it has been really fun. 
+I am from Cuba and I live Cary!
+
+Allison Weavil
+------------------------------------------------------------------------
+Hi I'm Alli. I'm in my second year of computer science at UNCG. In my free time I like to watch D&D campaigns (yes it is becoming a problem) and crochet. 
+I also have a lot of creatures in my house. 3 dogs (one is a stray I picked up off the street not even two weeks ago), 4 guinea pigs, and a snake.
+
+Michael DeHaan
+------------------------------------------------------------------------
+I am Michael DeHaan, a Computer Science student at UNCG. My current project is implementing react in my personal portfolio website. I am learning frontend 
+development so that I have a way to better publish future projects and applications.
