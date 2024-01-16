@@ -120,3 +120,8 @@ Meghan Wilcox
 Hello, I'm Meghan Wilcox. I am a senior at UNCG pursung a B.S. in Computer Science with a Minor in Mathematics. I enjoy coding projects
 in Python. This is my second class using Git/Github. In my free time I enjoy spending time with family, walking my dogs, and traveling.
 I enjoy training my dogs different tricks, and I compete in dog sports when I have time with my two Australian Shepherds. 
+
+Victor Telles
+--------------------------------------------------------------------------
+Hi, my name is Victor Telles. I am a junior at UNCG, and I enjoy coding in my free time whenever I have any. Hobbies that I engage in during the summer and winter include soccer and volleyball. I travel for work just about every week of the semester, which means I am in and out of classes for the most part. I hope the semester goes well, and I look forward to meeting more classmates this semester.
+
