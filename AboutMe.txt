@@ -123,4 +123,4 @@ I enjoy training my dogs different tricks, and I compete in dog sports when I ha
 
 Justin Evans
 -------------------------------------------------------------------------
-Hi! I am a junior at UNCG and plan to go into the accelerated Masters program in Computer Science. I like going on hikes, rock climbing, hanging out with my cat, and spending time with friends. So far C++, C, and Java have stuck out to me as my favorite languages to code in, but I do suspect python may start to be more in my future. I wish you all the best luck in this semester, we all got this!
+Hi! I am a junior at UNCG and plan to go into the accelerated Masters program in Computer Science. I like going on hikes, rock climbing, hanging out with my cat, and spending time with friends. So far C++ and Java have stuck out to me as my favorite languages to code in, but I do suspect python may start to be more in my future. I wish you all the best luck in this semester, we all got this!
