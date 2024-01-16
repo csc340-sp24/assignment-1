@@ -120,3 +120,7 @@ Meghan Wilcox
 Hello, I'm Meghan Wilcox. I am a senior at UNCG pursung a B.S. in Computer Science with a Minor in Mathematics. I enjoy coding projects
 in Python. This is my second class using Git/Github. In my free time I enjoy spending time with family, walking my dogs, and traveling.
 I enjoy training my dogs different tricks, and I compete in dog sports when I have time with my two Australian Shepherds. 
+
+Justin Evans
+-------------------------------------------------------------------------
+Hi! I am a junior at UNCG and plan to go into the accelerated masters program in Computer Science. I like going on hikes, rock climbing, hanging out with my cat, and spending time with friends. So far C++, C, and Java have stuck out to me as my favorite languages to code in, but I do suspect python may start to be more in my future. I wish you all the best luck in this semester, we all got this!
