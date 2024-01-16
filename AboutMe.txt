@@ -120,3 +120,8 @@ Meghan Wilcox
 Hello, I'm Meghan Wilcox. I am a senior at UNCG pursung a B.S. in Computer Science with a Minor in Mathematics. I enjoy coding projects
 in Python. This is my second class using Git/Github. In my free time I enjoy spending time with family, walking my dogs, and traveling.
 I enjoy training my dogs different tricks, and I compete in dog sports when I have time with my two Australian Shepherds. 
+
+Pradhyumna Kothapalli
+-------------------------------------------------------------------------
+Hi everyone I'm Pradhy. I'm a Junior at UNCG majoring in B.S. Computer science with a minor in Information Technology. I enjoy playing chess, going to the gym and
+coding in my free time. I am currently trying to get the AWS cloud certification. Hope everyone has a good semester!
