@@ -181,6 +181,15 @@ Luke Leong
 Hello, my name is Luke. I'm from Greenville, and when I'm not at school I live in Raleigh. I spend my free time playing games like League of Legends, and
 watching dramas/anime. I've used GitHub lightly in the past, but this class will be my first real engagement with it. Good luck to everyone. 
 
+Natchapone Janjon
+-----------------------------------------------------------------------
+Hey fellows, I go by a few names. Some people call me Natch, Natcha, Natcho, any of these are fine. 
+I'm a junior with a computer science major. I was born in Thailand and moved to the states at 12. I 
+lived in Florida first for a few years then moved to NC during my early highschool years. I love computer
+related stuffs and enjoy video games (FPS, currently Tarkov), music, and PC building, when my budget
+allows. I also like anime, haven't watched much of any movies or TV shows. Good luck to all, especially 
+anyone taking four computer science classes this semester!
+
 Alex Olson
 --------------------------------------------------------------------------------
 Hi, my name is Alex. I'm a senior at UNCG. Programming wise, I have an interest in bioinformatics and cryptocurrency, particularly ethereum programming in solidity. I'm looking forward to this project. I would like to build a philogenetic tree generator using nucleotide data,
