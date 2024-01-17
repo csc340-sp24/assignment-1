@@ -180,3 +180,7 @@ Luke Leong
 --------------------------------------------------------------------------------
 Hello, my name is Luke. I'm from Greenville, and when I'm not at school I live in Raleigh. I spend my free time playing games like League of Legends, and
 watching dramas/anime. I've used GitHub lightly in the past, but this class will be my first real engagement with it. Good luck to everyone. 
+
+Andrew Nice
+-----------------------------------------------------------------------------------------------------
+Hello, my name is Andrew. I am a senior at UNCG and plan on graduating either in the Winter of 2024 or Spring of 2025. I live in Graham and commute here durring the week, while working on the weekends as a waiter to pay for school. In my free time I run D&D games and occasionaly play instead of running them (cope), play video games, watch tv/anime, and occasionaly go to the gym when I can fit it in. This is my first time using Github but i'll figure it out. I still don't know many people on campus so reach out if you want to be friends. Good Luck this semester everyone!
