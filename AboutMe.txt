@@ -8,13 +8,6 @@ Behind The Bastards, The Dollop, Well There's Your Problem, Ridiculous History a
 currently reading "Quackery: A Brief History Of The Worst Ways To Cure Everything".
 This is the way.
 
-----------------------------------------------------------------------------
-Elijah Carpenter
-
-I'm a computer science student here at UNCG. I like chess. 
-I'm looking forward to what we can build together this semester.
-----------------------------------------------------------------------------
-
 Will Hutcheon
 ------------------------------------------------------------------------
 I am a student of computer science at UNCG. In my free time, I like to golf and watch/play
@@ -214,3 +207,8 @@ Jacob Echeverry Espinosa
 ----------------------------------------------------------------------------------
 Hello, I am Jacob. I'm from Pittsboro but all my family is from Colombia. Went to school in Carrboro, and spent most of my
 free time around the Chappel Hill area. Hoping for a good junior year and to travel back to Colombia in the summer.
+
+Elijah Carpenter
+-----------------------------------------------------------------------------------
+Hello everyone. I'm Elijah. I'm from the Salisbury area. I like chess.
+I'm excited to see what we'll create this semester. 
