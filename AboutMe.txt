@@ -181,6 +181,12 @@ Luke Leong
 Hello, my name is Luke. I'm from Greenville, and when I'm not at school I live in Raleigh. I spend my free time playing games like League of Legends, and
 watching dramas/anime. I've used GitHub lightly in the past, but this class will be my first real engagement with it. Good luck to everyone. 
 
+Alex Olson
+--------------------------------------------------------------------------------
+Hi, my name is Alex. I'm a senior at UNCG. Programming wise, I have an interest in bioinformatics and cryptocurrency, particularly ethereum programming in solidity. I'm looking forward to this project. I would like to build a philogenetic tree generator using nucleotide data,
+if anyone is interested and is looking for a group still, send me an email! azolson@uncg.edu. When I'm not studying computers, I enjoy playing guitar and singing, and I read quite a bit. I'm currently reading Ulysses by James Joyce. I highly recomend An Eternal Golden Braid by Dougless Hoffstader if you're interested in computer science.
+Good luck with your projects everybody! 
+
 Jacob Echeverry Espinosa
 ----------------------------------------------------------------------------------
 Hello, I am Jacob. I'm from Pittsboro but all my family is from Colombia. Went to school in Carrboro, and spent most of my
