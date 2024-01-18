@@ -29,6 +29,185 @@ from music education. I don't do Wordle anymore but I do keep up Duolingo at 12:
 day. I don't think I have read or seen any Harry Potter. My favorite game is Hollow Knight.
 In my free time, my brain head empty nothingness. I also like baking cookies.
 
+Jayden Cathcart
+------------------------------------------------------------------------
+Hello, I'm Jayden and I'm also a third-year Computer Science student. In my free time, 
+I enjoy making beats, playing basketball from time to time, and cooking when I have ingredients. 
+I have four siblings, 3 brothers (two older, one younger) and one older sister. 
+
+Ivan R.C.
+-----------------------------------------------------------------------
+Hey y'all. My name is Ivan and I'm a senior at UNCG . My favorite food is beef tacos and chicken 
+nugguets from McDonalds and Chick Flick A. I also play over the board chess this past year as well.
+
+Kanika Sun
+-----------------------------------------------------------------------
+Hello, I am Kanika. Outside of school I really enjoy physical activities like sports and weightlifting. 
+I recently started doing calisthenics and that is something I've been really enjoying right now. Other than that I also like to read. 
+I recently finished a book called 56 Days and all I have to say is don't trust anyone you meet!
+
+Sebastian Duarte
+------------------------------------------------------------------------
+My name is Sebastian and I'm a sophomore. I'm 20 years old and have two younger brothers. I have two
+pet cats and a milksnake. 
+
+Joseph Cramer
+------------------------------------------------------------------------
+Howdy my name is Joseph, I am a dual major in CS and BioChem; I have a fair few hobbies and enjoy taking on projects to complete in my free time. 
+Some of my hobbies are climbing, metalworking/woodworking, cooking, etc. 
+I'm currently reading the stormlight saga and when I have time I play league, minecraft, and chess.
+Right now I do coding with an analytical chemistry lab and intern with a company as an "AI intern" for work (which mostly means I format data all day).
+
+Nehabahen Chauhan
+------------------------------------------------------------------------
+Hi everyone, my name is Neha, a senior at UNCG. In my free time I love cooking and watching movies. 
+I often try to make new dishes from YouTube videos. I like to stay active so I have recently joined Planet Fitness. 
+Other than working out, I love walking, espeacially after dinner.
+
+Shauna Ayscue
+-------------------------------------------------------------------------
+My name is Shauna Ayscue and I'm 20 years old. I'm a junior and my major is computer science. I have two older sisters and one dog.
+
+Carlos Villarreal
+------------------------------------------------------------------------
+Hello, I'm Carlos. I live in Burlington NC and I'm in my senior year at UNCG. My favorite hobby is playing video games, and I primarily play 
+on PlayStation, where I'm an avid trophy/achievement hunter with dozens of platinum trophies. Besides gaming, other interests include learning 
+about history, science, astronomy, and occasionally cooking/baking cool recipes I find online.
+s
+Chris Nieves
+________________________________________________________________________
+Hello, My name is Chris. I am From Puerto Rico and am currently studying computer science in my senior year. 
+I love to play basketball and Listen to Latin trap/ urban music. I often play video games during my free time such as Rainbow Six Siege, 2k, and Fortnite. 
+I work out too daily to get buff. I am also making music with my friend and plan to make it to a side hustle and see how it pans out in "5 years". 
+I enjoy hanging out and always trying out new things.
+
+Arturo De La Fuente-Gonzalez
+-----------------------------------------------------------------------
+Hello, my name is Arturo. I am currently a senior at UNCG studying
+Computer Science with a minor in Information Technology. I am currently watching
+the last episodes of Star Wars, The Clone Wars. This is my first year using Github.
+I like to go to the gym when I have free time.
+
+Kevin Ruiz 
+------------------------------------------------------------------------
+Hello, Im Kevin I am a senior at UNCG I like to code in my free time I have recently started to learn ReactJS and it has been really fun. 
+I am from Cuba and I live Cary!
+
+Allison Weavil
+------------------------------------------------------------------------
+Hi I'm Alli. I'm in my second year of computer science at UNCG. In my free time I like to watch D&D campaigns (yes it is becoming a problem) and crochet. 
+I also have a lot of creatures in my house. 3 dogs (one is a stray I picked up off the street not even two weeks ago), 4 guinea pigs, and a snake.
+
+Michael DeHaan
+------------------------------------------------------------------------
+I am Michael DeHaan, a Computer Science student at UNCG. My current project is implementing react in my personal portfolio website. I am learning frontend 
+development so that I have a way to better publish future projects and applications.
+
+Jacob Greene
+------------------------------------------------------------------------
+Hi my name is Jacob Greene. I enjoy working out, working on my truck, and coding. 
+I've been learning about reverse engineering after learning more about assembly last year. Good luck with everyones classes.
+
+Lindsey Flores
+-----------------------------------------------------------------------
+Hey :D! Student at the UNCG studying computer science. I am from Mexico and enjoy many things.
+There is always something new to learn so I love meeting new people and trying new things, so my hobbies vary.
+Currently I would say my favorite hobbies include cooking and going to the gym. I love all things media; videogames, movies, tv shows and animes (if
+anyone has any anime reccomendations send them my way!). My favorite childhood superheros are Iron Man and Spider-Man (I know may be basic, but they are loved for many reasons). 
+
+Meghan Wilcox
+-------------------------------------------------------------------------
+Hello, I'm Meghan Wilcox. I am a senior at UNCG pursung a B.S. in Computer Science with a Minor in Mathematics. I enjoy coding projects
+in Python. This is my second class using Git/Github. In my free time I enjoy spending time with family, walking my dogs, and traveling.
+I enjoy training my dogs different tricks, and I compete in dog sports when I have time with my two Australian Shepherds. 
+
+Pradhyumna Kothapalli
+-------------------------------------------------------------------------
+Hi everyone I'm Pradhy. I'm a Junior at UNCG majoring in B.S. Computer science with a minor in Information Technology. I enjoy playing chess, going to the gym and
+coding in my free time. I am currently trying to get the AWS cloud certification. Hope everyone has a good semester!
+
+Victor Telles
+--------------------------------------------------------------------------
+Hi, my name is Victor Telles. I am a junior at UNCG, and I enjoy coding in my free time whenever I have any. 
+Hobbies that I engage in during the summer and winter include soccer and volleyball. 
+I travel for work just about every week of the semester, which means I am in and out of classes for the most part. 
+I hope the semester goes well, and I look forward to meeting more classmates this semester.
+
+Justin Evans
+-------------------------------------------------------------------------
+Hi! I am a junior at UNCG and plan to go into the accelerated Masters program in Computer Science. 
+I like going on hikes, rock climbing, hanging out with my cat, and spending time with friends. 
+So far C++ and Java have stuck out to me as my favorite languages to code in, but I do suspect python may start to be more in my future. 
+I wish you all the best luck in this semester, we all got this!
+
+Mauricio Garcia-Paez
+-----------------------------------------------------------------------
+Hi, i'm Mauricio. This is my second year at UNCG, I transfered here from
+another univesity in western NC. I love spending time outside hiking, camping, and doing
+sports. I also play a wide veriety of video games. I am also the oldest of 
+5 kids and have lived in NC my whole life.
+
+Salvador Macias
+-------------------------------------------------------------------------
+Hello, my name is Salvador Macias I enjoy playing video games, watching anime, and I really enjoy running DND games for my friends. 
+I was born in Italy and this is my 4th semester at UNCG. Im always down to make new friends so feel free to talk to me whenever :D.
+
+Sara Abukhalaf
+----------------------------------------------------------------------------------
+Hi, my name is Sara abukhalaf and I am a junior majoring in computer science I love going to the gym, playing sims 4 and journaling. 
+I have a cat named FuFu that I adore and I spend my free time watching movies and rotting in bed. 
+This course seems overwhelming but I enjoy a challenge and am ready to see what knowledge I leave this class with.
+
+Amna Sohail 
+-----------------------------------------------------------------------------------------
+Hi, my name is Amna, this is my junior year at UNCG. I'm from high point, and therefore a commuter student. 
+I hate commuting, it sucks. I like to read and buy things I can't afford in my free time. Hoping and praying to God this semester is good to me. 
+Thanks, bye! (Shoutout to Madelyn Good for being funny af)
+
+Carissa Boddie
+-------------------------------------------------------------------------
+Hi everyone, My name is Carissa. I am a junior here at UNCG. I'm originally from Raleigh, NC but moved Greensboro the summer before my freshman of high school. 
+I went to Page High School here in Greensboro. I decided to go to UNCG to stay near family. 
+I've worked at Chick-Fil-A for four years so sometimes even outiside of work, when people say thank you I follow up with a "My Pleasure!". 
+Alright, well enough about me. I hope that everyone..... (including myself haha) does well this semester! Byeeeeee
+
+Garrett Emerich
+---------------------------------------------------------------------------------------------
+Hi, I am a senior at UNCG, planning to graduate in the winter. I work from home for a small software development company called On The Mark Solutions as an implementation specialist and support tech, but I also do so low level development work as well. 
+In my free time I enjoy listening to music (literally all the time), podcasts, going to concerts, and playing video games. I am excited to work on a larger scale project than what he have done so far at UNCG, it should be a good challenge to face.
+
+Luke Leong
+--------------------------------------------------------------------------------
+Hello, my name is Luke. I'm from Greenville, and when I'm not at school I live in Raleigh. I spend my free time playing games like League of Legends, and
+watching dramas/anime. I've used GitHub lightly in the past, but this class will be my first real engagement with it. Good luck to everyone. 
+
+Andrew Nice
+-----------------------------------------------------------------------------------------------------
+Hello, my name is Andrew. I am a senior at UNCG and plan on graduating either in the Winter of 2024 or Spring of 2025. 
+I live in Graham and commute here durring the week, while working on the weekends as a waiter to pay for school. 
+In my free time I run D&D games and occasionaly play instead of running them (cope), play video games, watch tv/anime, and occasionaly go to the gym when I can fit it in. 
+This is my first time using Github but i'll figure it out. I still don't know many people on campus so reach out if you want to be friends. Good Luck this semester everyone!
+
+Natchapone Janjon
+-----------------------------------------------------------------------
+Hey fellows, I go by a few names. Some people call me Natch, Natcha, Natcho, any of these are fine. 
+I'm a junior with a computer science major. I was born in Thailand and moved to the states at 12. I 
+lived in Florida first for a few years then moved to NC during my early highschool years. I love computer
+related stuffs and enjoy video games (FPS, currently Tarkov), music, and PC building, when my budget
+allows. I also like anime, haven't watched much of any movies or TV shows. Good luck to all, especially 
+anyone taking four computer science classes this semester!
+
+Alex Olson
+--------------------------------------------------------------------------------
+Hi, my name is Alex. I'm a senior at UNCG. Programming wise, I have an interest in bioinformatics and cryptocurrency, particularly ethereum programming in solidity. I'm looking forward to this project. I would like to build a philogenetic tree generator using nucleotide data,
+if anyone is interested and is looking for a group still, send me an email! azolson@uncg.edu. When I'm not studying computers, I enjoy playing guitar and singing, and I read quite a bit. I'm currently reading Ulysses by James Joyce. I highly recomend An Eternal Golden Braid by Dougless Hoffstader if you're interested in computer science.
+Good luck with your projects everybody! 
+
+Jacob Echeverry Espinosa
+----------------------------------------------------------------------------------
+Hello, I am Jacob. I'm from Pittsboro but all my family is from Colombia. Went to school in Carrboro, and spent most of my
+free time around the Chappel Hill area. Hoping for a good junior year and to travel back to Colombia in the summer.
+
 Dylan Muroki
 ------------------------------------------------------------------------
 Hello im Dylan, im a junior compsci student, My favorite things to do is watch/ play basketball and I dabble in sports betting on the side. I also like playing anagrams with friends on my free time.My favorite movies/shows to watch by far is marvel, specifically agents of shield/any of the guardians of galaxy.
