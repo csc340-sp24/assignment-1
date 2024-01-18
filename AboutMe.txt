@@ -261,3 +261,9 @@ Christian Wilson
 ----------------------------------------------------------------------------------
 Hello, my name is Christian! I'm from Burlington NC, and currently i'm a senior but i transfered here for my junior year from Alamance Community College. 
 In my spare time I like to play videogames, watch shows/movies, and read. Right now i'm reading a book called Red Rising and it's got me hooked. 
+
+Mitch Haws
+------------------------------------------------------------------------------------
+I'm Mitch. I'm a senior majoring in computer science with a minor in business. I enjoy 
+spending time with my wife and dog (german shepherd). I work full time and do school full time. While I do 
+enjoy coding, I hope to one day be on the business side of programming projects.
