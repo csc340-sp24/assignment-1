@@ -273,3 +273,10 @@ Mitch Haws
 I'm Mitch. I'm a senior majoring in computer science with a minor in business. I enjoy 
 spending time with my wife and dog (german shepherd). I work full time and do school full time. While I do 
 enjoy coding, I hope to one day be on the business side of programming projects.
+
+Samuel George
+------------------------------------------------------------------------------------
+Hello, my name is Sam! I am a junior at UNCG studying computer science for am major, and I am minoring
+in business and finance. I hope to get a chance to work on AI in the future, I think that would be cool. 
+I currently work at the rock climbing wall on campus in the Kaplan Center. I love to workout and play video
+games with my friends in my free time. I also love watching this show called the Bear as of right now.
