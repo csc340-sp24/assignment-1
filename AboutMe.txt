@@ -272,4 +272,9 @@ Mitch Haws
 ------------------------------------------------------------------------------------
 I'm Mitch. I'm a senior majoring in computer science with a minor in business. I enjoy 
 spending time with my wife and dog (german shepherd). I work full time and do school full time. While I do 
-enjoy coding, I hope to one day be on the business side of programming projects.
+enjoy coding, I hope to one day be on the business side of programming projects. 
+
+Yanae Powell 
+------------------------------------------------------------------------------------ 
+Hi, Im Yanae. I am a senior majoring in computer science. I'm from Charlotte, NC. I like to crochet, 3D printing, and other 
+fun things!
